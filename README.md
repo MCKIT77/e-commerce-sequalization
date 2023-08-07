@@ -30,9 +30,10 @@ Jacob McKitrick
 N/A
 
 ## Tutorial
-
+Tutorial Video: https://drive.google.com/file/d/18zolggenyX6nASnNABzZ7C97lt2furzM/view
 
 ## Links
+github repo: https://github.com/MCKIT77/e-commerce-sequalization
 
 ## Questions
 For any questions or inquiries, please contact me via GitHub or email:
