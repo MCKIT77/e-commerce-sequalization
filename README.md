@@ -20,7 +20,7 @@ This application is covered under the MIT license.
 to install, you will need postman or insomnia ,  mysql and node installed, then clone git repo into desired directory, cd into it
 
 ## Usage
-to use this you must first create database by running schema. to do this, you will run $ mysql -u root -p , then type your password , then run $ source db/schema.sql. once done, run npm run seed to seed database for manipulation. once done run $ node server.js . once complete, you may use insomnia to hit desired available endpoints. if you have errors, refer to routes to confirm you are hitting correct endpoint.
+to use this you must first create database by running schema. to do this, you will run $ mysql -u root -p , then type your password , then run $ source db/schema.sql. then you MUST change your .env.EXAMPLE file to .env and add your user information for sql server. once done, run $npm i , followed by $ npm run seed to seed database for manipulation. once done run $ node server.js . once complete, you may use insomnia to hit desired available endpoints. if you have errors, refer to routes to confirm you are hitting correct endpoint.
 
 ## Contributors
 Jacob McKitrick
